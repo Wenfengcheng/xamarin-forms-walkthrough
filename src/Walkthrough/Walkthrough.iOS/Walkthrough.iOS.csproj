@@ -98,6 +98,29 @@
     <BundleResource Include="Resources\so_excited.json" />
     <BundleResource Include="Resources\bikingishard.json" />
     <BundleResource Include="Resources\biking_is_cool.json" />
+    <BundleResource Include="Resources\intro_video_iphone.mp4" />
+    <BundleResource Include="Resources\welcome_page_first_0.png" />
+    <BundleResource Include="Resources\welcome_page_first_1.png" />
+    <BundleResource Include="Resources\welcome_page_first_2.png" />
+    <BundleResource Include="Resources\welcome_page_first.json" />
+    <BundleResource Include="Resources\welcome_page_fourth_0.png" />
+    <BundleResource Include="Resources\welcome_page_fourth_1.png" />
+    <BundleResource Include="Resources\welcome_page_fourth_2.png" />
+    <BundleResource Include="Resources\welcome_page_fourth_3.png" />
+    <BundleResource Include="Resources\welcome_page_fourth.json" />
+    <BundleResource Include="Resources\welcome_page_second_0.png" />
+    <BundleResource Include="Resources\welcome_page_second_1.png" />
+    <BundleResource Include="Resources\welcome_page_second_2.png" />
+    <BundleResource Include="Resources\welcome_page_second.json" />
+    <BundleResource Include="Resources\welcome_page_third_0.png" />
+    <BundleResource Include="Resources\welcome_page_third_1.png" />
+    <BundleResource Include="Resources\welcome_page_third_2.png" />
+    <BundleResource Include="Resources\welcome_page_third_3.png" />
+    <BundleResource Include="Resources\welcome_page_third_4.png" />
+    <BundleResource Include="Resources\welcome_page_third_5.png" />
+    <BundleResource Include="Resources\welcome_page_third_6.png" />
+    <BundleResource Include="Resources\welcome_page_third_7.png" />
+    <BundleResource Include="Resources\welcome_page_third.json" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -162,7 +185,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\Walkthrough\Walkthrough.csproj">
-      <Project>{060DF97C-67E8-4C9F-BA88-6EDDE036CCE1}</Project>
+      <Project>{53BA091C-45D6-4706-98A1-19D496AB2AF9}</Project>
       <Name>Walkthrough</Name>
     </ProjectReference>
   </ItemGroup>

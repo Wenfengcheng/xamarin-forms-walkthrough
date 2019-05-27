@@ -20,6 +20,8 @@ namespace Walkthrough.Views.Walkthrough
 			{
 				animation.Begin();
 			}
+
+            LottieAnimation.Play();
 		}
 	}
 }

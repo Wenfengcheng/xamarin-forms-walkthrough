@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentView
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
@@ -40,9 +40,8 @@
         <forms:AnimationView
             x:Name="LottieAnimation"
             Grid.Row="0"
-            Animation="biking_is_cool.json"
-            AutoPlay="true"
-            Loop="True"
+            Animation="welcome_page_fourth.json"
+            Loop="false"
             Speed="1"
             Scale="1"
             HorizontalOptions="FillAndExpand"
